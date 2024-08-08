@@ -85,4 +85,4 @@ e.preventDefault(); // stops page from refreshing
 const submitForm = document.querySelector("#projectForm");
 submitForm.addEventListener("submit", createProject());
 
-//projectsOnDom();
+projectsOnDom();
